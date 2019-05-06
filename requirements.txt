@@ -1,3 +1,6 @@
 pandas
 sklearn
 matplotlib
+cloudmesh-common
+cloudmesh-cmd5
+cloudmesh-sys
